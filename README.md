@@ -1,9 +1,22 @@
 ### Hi 👋, I'm Leonel Wirth
-#### I am an Electronics Engineer and Full stack Developer
+#### I am an Electronics Engineer and Full stack Developer with experience in the research and developement areas, willing to be up to date with the latest tchnological advancements and work on proyects with them.
 
-Formación en Ingeniería electrónica y desarrollo Web con experiencia en diseño, tanto en hardware como software y aplicaciones web tanto Front End como Back End.
+Skills:
+* JavaScript
+* React
+* Redux
+* Node JS
+* Express
+* Sequelize
+* HTML
+* CSS
+* C
+* C++
+* ST microcontrollers
+* PIC microcontrollers
+* Arduino microcontrollers
+* MATLAB & Simulink
 
-Habilidades:  JS / REACT / REDUX / HTML / CSS / NODE / EXPRESS / GIT / SQL / 
 
 
 Contact info:
