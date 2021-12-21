@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Leonel Wirth
-#### I am an Electronics Engineer and Full stack Developer with experience in the research and developement areas, willing to be up to date with the latest tchnological advancements and work on proyects with them.
+#### I am an Electronics Engineer and Full stack Developer with experience in the research and developement areas, willing to be up to date with the latest technological advancements and work on proyects with them.
 
 Skills:
 * JavaScript
@@ -24,10 +24,7 @@ Description: In this proyect i developed a SPA about a recipe catalgue. The app 
 The page was developed using React and Redux for the Front End, the design was made with plain CSS without external libraries, for the Back End i used Express for extra funcionalities and PostgreSQL in combination with Sequelize for the database and finally the back end fetch data from an external API.
 Technologies used: Javascript, React, Redux, Node JS, HTML, CSS, Express js, Sequelize & PostgreSQL.
 
-* Weather App
-Description:
-Technologies used: Javascript, React, Redux, Node JS, HTML & CSS
-
+<img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/Landing.PNG?raw=true' alt='Not Found' width='250'> <img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/Home.PNG?raw=true' alt='Not Found' width='250'> <img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/NewRecipe.PNG?raw=true' alt='Not Found' width='250'> <img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/Recipe.PNG?raw=true' alt='Not Found' width='250'>
 
 
 Contact me:
