@@ -17,10 +17,18 @@ Skills:
 * Arduino microcontrollers
 * MATLAB & Simulink
 
+### Proyects:
 
-var leonelWirth = {
-      education: ["Electronic Engineer" , "Full Stack Developer"],
-}
+* Food App
+Description: In this proyect i developed a SPA about a recipe catalgue. The app is useful for searching recipes, createing new ones and it comes with features like search by name, filter by score, filter by order, among others.
+The page was developed using React and Redux for the Front End, the design was made with plain CSS without external libraries, for the Back End i used Express for extra funcionalities and PostgreSQL in combination with Sequelize for the database and finally the back end fetch data from an external API.
+Technologies used: Javascript, React, Redux, Node JS, HTML, CSS, Express js, Sequelize & PostgreSQL.
+
+* Weather App
+Description:
+Technologies used: Javascript, React, Redux, Node JS, HTML & CSS
+
+
 
 Contact me:
 * leo_wirth@hotmail.com
