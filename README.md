@@ -12,6 +12,7 @@ Skills:
 * CSS
 * C
 * C++
+* Python
 * ST microcontrollers
 * PIC microcontrollers
 * Arduino microcontrollers
