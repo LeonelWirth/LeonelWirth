@@ -1,32 +1,31 @@
-### Hi 👋, I'm Leonel Wirth
-#### I am an Electronics Engineer and Full stack Developer with experience in the research and developement areas, willing to be up to date with the latest technological advancements and work on proyects with them.
+Software | Data ETL and Visualization | Transform Data into Insights
 
-Skills:
-* JavaScript
-* React
-* Redux
-* Node JS
-* Express
-* Sequelize
-* HTML
-* CSS
-* C
-* C++
-* Python
-* ST microcontrollers
-* PIC microcontrollers
-* Arduino microcontrollers
-* MATLAB & Simulink
+Overview:
+Hello! I am Leonel Wirth, a seasoned Software Developer and
+Electronics Engineer with a passion for turning raw data into
+actionable insights. With over 5 years of experience, I specialize in
+creating custom data visualizations and interactive dashboards that
+help businesses make informed decisions.
+What I Offer:
+Real-Time Data Dashboards: Stay ahead with real-time data
+updates.
+Interactive Reports: Dive deeper into your data with interactive
+reports.
+User-Friendly Interfaces: Intuitive and easy-to-use dashboards.
+Custom PI Vision Symbols: Tailored symbols to meet your specific
+needs.
+ETL: Transforming your data with efficiency and precision.
+Extract: Pull data from various sources to ensure comprehensive datasets.
+Transform: Cleanse, process, and structure data using Python (Pandas, NumPy) to prepare it for analysis.
+Load: Store processed data in robust databases like PostgreSQL and MongoDB, ensuring it's ready for real-time visualization.
 
-### Proyects:
-
-* Food App
-Description: In this proyect i developed a SPA about a recipe catalogue. The app is useful for searching recipes, createing new ones and it comes with features like search by name, filter by score, filter by order, among others.
-The page was developed using React and Redux for the Front End, the design was made with plain CSS without external libraries, for the Back End i used Express for extra funcionalities and PostgreSQL in combination with Sequelize for the database and finally the back end fetch data from an external API.
-Technologies used: Javascript, React, Redux, Node JS, HTML, CSS, Express js, Sequelize & PostgreSQL.
-
-<img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/Landing.PNG?raw=true' alt='Not Found' width='250'> <img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/Home.PNG?raw=true' alt='Not Found' width='250'> <img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/NewRecipe.PNG?raw=true' alt='Not Found' width='250'> <img src='https://github.com/LeonelWirth/LeonelWirth/blob/main/Recipe.PNG?raw=true' alt='Not Found' width='250'>
-
+Technologies I Use:
+Frontend: JavaScript, TypeScript, React.js, AngularJS, amChart.js
+Backend: Node.js, Express.js, Sequelize
+Database: PostgreSQL, MongoDB
+Data Processing: Python (Pandas, NumPy), Airflow
+Integration: Azure, Docker
+Let's collaborate to transform your data into powerful visual stories.
 
 Contact me:
 * leo_wirth@hotmail.com
